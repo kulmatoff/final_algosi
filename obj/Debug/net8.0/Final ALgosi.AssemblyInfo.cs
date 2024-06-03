@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Final ALgosi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc513738cf42ec675eb46afa1bb5d3ec1cb013c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+970fd04fcf2ee2d93419427b38517d575a4a4091")]
 [assembly: System.Reflection.AssemblyProductAttribute("Final ALgosi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Final ALgosi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
